@@ -7,7 +7,6 @@ Main.cpp
 #include <stdlib.h>
 #include <random>
 #include <iomanip>
-#include "SOIL/SOIL.h" 
 #include "Cubo.h"
 #include <string> 
 
